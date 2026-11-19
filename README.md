@@ -1,56 +1,71 @@
-# NORDLY Living
 
-### Natürlich wohnen. Stilvoll leben.
+# NORDLY Living – WooCommerce Onlineshop
 
-**NORDLY Living** ist ein fiktiver Onlineshop für skandinavische Wohnaccessoires. Das Projekt wurde mit WordPress, Elementor und WooCommerce als Portfolio-Demonstration umgesetzt.
+NORDLY Living ist ein fiktives E-Commerce-Demoprojekt
+von MAVESSO.
 
-Der Schwerpunkt liegt auf einem modernen, responsiven Webdesign, einer harmonischen Bildsprache und einer übersichtlichen Produktpräsentation.
+Der Onlineshop wurde mit WordPress, WooCommerce und
+Elementor umgesetzt und präsentiert ein modernes,
+übersichtliches Einkaufserlebnis im Bereich Wohnen
+und Einrichtung.
 
-## Projektvorschau
+## Projektübersicht
 
-![[Startseite ansehen](screenshots/nordly-portfolioscreenshotsstartseite.png))
+- **Projekt:** NORDLY Living
+- **Kategorie:** E-Commerce / Onlineshop
+- **Technologien:** WordPress, WooCommerce, Elementor
+- **Umsetzung:** Responsive Webdesign
+- **Status:** Fiktives Demoprojekt
 
-## Weitere Einblicke
+## Projektziele
+
+Ziel war die Gestaltung eines modernen Onlineshops
+mit einer klaren Seitenstruktur, ansprechenden
+Produktpräsentationen und einer benutzerfreundlichen
+Navigation.
+
+Der Shop wurde für Desktop, Tablet und Smartphone
+gestaltet.
+
+## Screenshots
+
+### Startseite
+
+![NORDLY Living – Startseite](screenshots/nordly-portfolioscreenshotsstartseite.png)
 
 ### Produktkategorien
 
-![Dekoration, Textilien und Beleuchtung](screenshots/kategorien.png)
+![NORDLY Living – Kategorien](screenshots/nordly-portfolioscreenshotskategorien.png)
 
 ### Produktübersicht
 
-![NORDLY Living – Produkte](screenshots/produkte.png)
+![NORDLY Living – Produkte](screenshots/nordly-portfolioscreenshotsprodukte.png)
 
 ### Smartphone-Ansicht
 
-![NORDLY Living – Mobile Ansicht](screenshots/smartphone.png)
+![NORDLY Living – Smartphone](screenshots/nordly-portfolioscreenshotssmartphone.png)
 
-## Verwendete Technologien
+## Technische Umsetzung
 
-- WordPress
-- Elementor Free
-- WooCommerce
-- Hello Elementor Theme
-- HTML und CSS
-- LocalWP (lokale Entwicklungsumgebung)
+- WordPress als Content-Management-System
+- WooCommerce für die Shop-Funktionen
+- Elementor zur Gestaltung der Seiten
+- Responsive Layouts für verschiedene Bildschirmgrößen
+- Strukturierte Darstellung von Produkten und Kategorien
 
-## Funktionen
+## Hinweis zum Projekt
 
-- Responsives Design für Desktop und Smartphone
-- Produktübersicht mit Bildern, Namen und Preisen
-- Produktkategorien: Dekoration, Textilien und Beleuchtung
-- Individuell gestaltete Startseite
-- Über-uns-Seite und Kontaktformular
-- Katalogmodus zur Präsentation ohne reguläre Kaufbuttons
-- Gestalteter Warenkorb und Checkout im lokalen Testbetrieb
+NORDLY Living ist ein fiktives Portfolio-Projekt.
 
-## Projektstatus
+Der Onlineshop dient ausschließlich der
+Demonstration von Webdesign- und
+WooCommerce-Funktionen.
 
-Dieses Projekt ist ein **Portfolio- und Demonstrationsshop**. NORDLY Living ist eine fiktive Marke. Es findet kein realer Verkauf statt.
+Es handelt sich nicht um einen öffentlich
+betriebenen Shop mit echten Bestellmöglichkeiten.
 
-Die WordPress-Webseite wird derzeit lokal mit LocalWP betrieben. Deshalb steht noch keine öffentliche Live-Demo zur Verfügung.
+## Entwickelt von MAVESSO
 
-Die Screenshots dokumentieren die Gestaltung und Umsetzung des Projekts.
+MAVESSO – Webdesign & Webentwicklung
 
----
-
-**Portfolio-Projekt | WordPress · Elementor · WooCommerce**
+E-Mail: info@mavesso.de
