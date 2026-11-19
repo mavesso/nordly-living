@@ -8,7 +8,7 @@ Der Schwerpunkt liegt auf einem modernen, responsiven Webdesign, einer harmonisc
 
 ## Projektvorschau
 
-![NORDLY Living – Startseite](screenshots/startseite.png)
+![[Startseite ansehen](screenshots/nordly-portfolioscreenshotsstartseite.png))
 
 ## Weitere Einblicke
 
